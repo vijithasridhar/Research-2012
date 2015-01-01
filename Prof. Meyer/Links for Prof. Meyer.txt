@@ -1,0 +1,7 @@
+9/5/2012
+
+http://reference.wolfram.com/mathematica/howto/GetPartsOfAMatrix.html
+http://reference.wolfram.com/mathematica/howto/PutHeadingsInATable.html
+http://reference.wolfram.com/mathematica/ref/ArrayFlatten.html
+http://reference.wolfram.com/mathematica/tutorial/GridsRowsAndColumns.html
+http://reference.wolfram.com/mathematica/howto/PerformCalculationsOnColumnsOfData.html
